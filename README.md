@@ -19,7 +19,7 @@ Welcome to my personal portfolio repository! This project showcases my skills, w
 - `image.png` – Assets/screenshots
 
 ## 🌐 Live Demo
-*(Agar aapne GitHub Pages par live kiya hai toh yahan link add karein, warna is section ko hata dein)*
+* https://faiz-code1.github.io/My-portfolio/ *
 
 ## 📫 Contact
 - **Name:** Mohd Faiz Saifi
